@@ -1,0 +1,4 @@
+export const blob = {
+  mainBlob:
+    "Hester trained at the Royal Academy of Dramatic Art. She has worked with many of the UK’s foremost theatre companies including Northern Broadsides, West Yorkshire Playhouse, Hull Truck, Sheffield Theatres, Chichester Festival Theatre and the Orange Tree and has appeared on screen for the BBC, Granada and ITV. \b As a lead singer she has fronted indie dream-pop favourites NIGHT FLOWERS. \bHester is currently developing her work as an independent artist and writer under her family name, Hester Ullyart. Her debut solo show THE BALLAD OF PARAGON STATION previewed at RADA Fest 2017 and Hackney Showrooms and subsequently enjoyed success at the Edinburgh Fringe before heading onto New Zealands’ glorious Lyttelton Arts Factory, Kardomah 94 and Hull Truck Theatre. \bWatch this space."
+};
